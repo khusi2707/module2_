@@ -1,4 +1,4 @@
-# Eth-Avax-Module2-Project
+
 # Solidity smart contract 
 A Solidity smart contract named "Assessment" and a React frontend for interacting with the contract using the MetaMask wallet. The contract allows users to deposit and withdraw funds, check their balance, and perform some more operations. The frontend provides a simple interface for users to interact with the contract functions.
 # Description 
